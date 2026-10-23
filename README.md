@@ -22,6 +22,7 @@ Camera Setup:
 Turn on the camera, go to Menu -> Setup -> locate USB Connection, and set it to Mass Storage (or MTP depending on your camera model).
 
 2. Step-by-Step Installation
+   
 Step 1: Launch the tool
 
 Double-click pmca-gui-v0.18-win.exe on your Windows PC (right-click and select Run as administrator if prompted).
